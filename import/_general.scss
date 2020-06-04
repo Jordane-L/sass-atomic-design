@@ -2,7 +2,7 @@
 
 /* -------------------------------------------------*/
 
-/* _commun.scss (styles communs a tous les peripheriques et toutes les pages. Ce qui vient en supplément des éléments génériques classiques comme les titres/boutons/liens/espaces qu'on retrouvera sur les fichiers atomes et molécules) */
+/* _general.scss (styles communs a tous les peripheriques et toutes les pages. Ce qui vient en supplément des éléments génériques classiques comme les titres/boutons/liens/espaces qu'on retrouvera sur les fichiers atomes et molécules) */
 
 /* -----GENERAL-----*/
 
@@ -32,8 +32,14 @@ img:not([alt]) {
     border: 5px dashed red;
 }
 
-/* -----HEADER-----*/
 
-/* -----CONTENT-----*/
+/* -----HEADER----*/
 
-/* -----FOOTER-----*/
+/* -----FOOTER----*/
+footer {
+    /* style du footer */
+    
+    form.contact {
+        
+    }
+}
